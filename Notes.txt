@@ -1,9 +1,10 @@
 What we are 100% sure we want the game to have:
--
--
--
+- Bullet hell gameplay
+  - 45 degree perspective
+  - 360 degree shooting for player
+  - Bullet behavior
 
 Pending decisions: 
--
--
--
+- story
+- art
+- sound/music
