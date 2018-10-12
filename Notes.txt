@@ -8,3 +8,8 @@ Pending decisions:
 - story
 - art
 - sound/music
+
+Notes:
+Hi guys we lost an artist and I think we should fall back to implementing gameplay.
+
+Here's an idea: what if we all make our own demo and at the next meeting we decide who's we should continue working on?
